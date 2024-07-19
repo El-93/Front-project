@@ -1,0 +1,32 @@
+{
+  "allData": [
+    {
+      "img": "./images/h1.png",
+      "title": "هندزفری",
+      "kod": "کد محصول #HN10LU",
+      "free": "n تومن",
+      "price": "x تومن"
+    },
+    {
+      "img": "./images/h2.png",
+      "title": "هندزفری",
+      "kod": "کد محصول #47PN20LU",
+      "free": "n تومن",
+      "price": "x تومن"
+    },
+    {
+      "img": "./images/h3.png",
+      "title": "هندزفری",
+      "kod": "کدمحصول #47GN10HU",
+      "free": "n تومن",
+      "price": "x تومن"
+    },
+    {
+      "img": "./images/h4.png",
+      "title": "هندزفری",
+      "kod": "کدمحصول#20UN23U",
+      "free": "n تومن",
+      "price": "x تومن"
+    }
+  ]
+}
